@@ -10,6 +10,7 @@ This prototype demonstrates how AI can accelerate the creation of functional sys
 
 🌐 Landing Page
   •	Modern UI/UX design
+  
   •	Conversion-focused structure
   •	Clear value proposition for automation services
 
