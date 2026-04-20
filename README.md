@@ -23,6 +23,7 @@ This prototype demonstrates how AI can accelerate the creation of functional sys
 * Modern UI/UX design
 * Conversion-focused structure
 * Clear value proposition for automation services
+* ![NexGen LandingPage](NexGenLandingpage.png)
 
 ---
 
