@@ -12,7 +12,8 @@ This project is a conceptual prototype of a business automation platform built w
 * Automate workflows
 * Enhance decision-making through intelligent tools
 
-This prototype demonstrates how AI can accelerate the creation of functional systems starting from a simple idea.
+This prototype demonstrates how AI (Google Antigravity) can accelerate the creation of functional systems starting from a simple idea.
+* ![AntigravityLogo](AntigravityLogo.png)
 
 ---
 
@@ -32,22 +33,19 @@ This prototype demonstrates how AI can accelerate the creation of functional sys
 * Client data capture form
 * Scheduling interface for consultations
 * Seamless user experience
+* ![NexGenAgenda](NexGenAgenda.png)
 
 ---
 
-### 🧑‍💻 Admin Dashboard ("Command Center")
+### 🧑‍💻 Admin Dashboard ("Command Center") & AI Content Assistant
 
 * Centralized operational view
 * Interactive interface
-
----
-
-### 🤖 AI Content Assistant
-
 * Chat-based interaction
 * Generates social media posts
 * Platform selection (LinkedIn, Instagram, etc.)
-* Ready for automated publishing workflows
+* Ready for automated publishing workflows,
+* ![NexGenDashboard](NexGenDashboard.png)
 
 ---
 
